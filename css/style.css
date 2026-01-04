@@ -73,7 +73,7 @@ a {
 
 a:hover {
     background-color: #8233E8;
-    text-decoration: line-through;
+    text-decoration: none;
 }
 
 section img {
